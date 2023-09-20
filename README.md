@@ -7,6 +7,9 @@ This project seeks to address this critical societal issue by harnessing the pow
 
 In the following sections, we will delve into the project’s methodology, data collection and preprocessing, the selection of NLP models, and the evaluation metrics used to assess the classifier’s performance. Our ultimate vision is to equip individuals and communities with a potent weapon against the pernicious influence of fake news, thereby fostering a more discerning, educated, and media-literate society. <br>
 
-Now, we start with importing necessary libraries and read the data using python data frame.
+![Fake News](https://miro.medium.com/v2/resize:fit:720/format:webp/1*5DF_RTjo8ZmQtsyiDlWSaw.png)
+We have imported important libraries including the train test split that is used to divide the data set into training part. Also Countvectorizer encodes new words using vocabulary. And we read the data using pandas which has rows and columns. <br>
+![Fake News](https://miro.medium.com/v2/resize:fit:720/format:webp/1*pBzhB6t7CbPsg9wmtTqGkg.png)
+The image above is the real news which is in the text variable(contains information regarding the News headline. <br>
 
 
